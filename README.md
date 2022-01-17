@@ -1,0 +1,2 @@
+# Lotto-szam-generator
+csoportmunka
